@@ -1,3 +1,3 @@
 # SpringBoot API
 
-API made in Java using Spring, Hibernate, H2 and hosted on heroku
+ API feita com Java, Spring, Hibernate, H2 e hospedada no Heroku 
